@@ -1,2 +1,6 @@
 # supersym
-ocaml code to computer supersymmetry algebra cohomology
+
+ocaml code to compute supersymmetry algebra cohomology according to
+
+*Friedmann Brandt*:
+_"Supersymmetry cohomology I"_
