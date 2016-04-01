@@ -1,0 +1,7 @@
+\.o$
+\.cmi$
+\.cmx$
+^gamma$
+^gamma\.6\.out$
+^ghost$
+^\.git/
